@@ -1,0 +1,15 @@
+{
+  "name": "nwjs-sandbox",
+  "version": "0.0.1",
+  "description": "A sandbox for nwjs issues and experiments",
+  "main": "index.js",
+  "scripts": {
+    "webview-pdf-overlay": "nw webview-pdf-overlay",
+    "create-react-app": "nw create-react-app"
+  },
+  "author": "rohan-deshpande",
+  "license": "MIT",
+  "dependencies": {
+    "nw": "^0.44.1-sdk"
+  }
+}

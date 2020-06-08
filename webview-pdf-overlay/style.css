@@ -1,0 +1,22 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+#foo {
+  height: 100%;
+  width: 100%;
+}
+
+#bar {
+  background-color: teal;
+  height: 200px;
+  left: 300px;
+  position: absolute;
+  top: 400px;
+  width: 200px;
+}
